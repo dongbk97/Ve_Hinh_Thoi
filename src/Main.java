@@ -38,7 +38,7 @@ public class Main {
 			inString(i);
 			inString2(j);
 			System.out.println();
-
+// Test git 
 		}
 		System.out.println("* * * * * * * * * * * * * * * * * * * * *");
 		for (i = 0, j = 10; i <= 10 && j >= 0; i++, j--) {
